@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgba(36, 103, 248, 0.808);
+}
+
+header {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+section {
+  background-color: white;
+  border-radius: 10px;
+  height: 20em;
+  width: 30em;
+  margin: auto;
+}
+
+#enunciado {
+  padding: 1em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#enunciado > p {
+  display: inline;
+}
+
+input {
+  padding: 0.2em;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font: italic bold 1em Arial, Helvetica, sans-serif;
+  padding: 0.5em;
+}
