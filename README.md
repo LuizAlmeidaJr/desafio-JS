@@ -10,7 +10,7 @@ Digite um número de 1 a 100 e clique em **Adicionar**.
 
 <br>
 
-![Tela do Analisador de Números](images/readme/principal.png)
+<img align="center" src="images/readme/principal.png" alt="Tela do Analisador de Números" width="700" style="border: 1px solid gray">
 
 <br>
 
@@ -18,7 +18,7 @@ Há validações para que não seja inserido nenhum número fora do intervalo es
 
 <br>
 
-![Mensagem de alerta quando é adicionado número fora do intervalo de 1 a 100](images/readme/validacao1.png)
+<img align="center" src="images/readme/validacao1.png" alt="Mensagem de alerta quando é adicionado número fora do intervalo de 1 a 100" width="700" style="border: 1px solid gray">
 
 <br>
 
@@ -26,7 +26,7 @@ E para que não sejam inseridos números repetidos.
 
 <br>
 
-![Mensagem de alerta quando é adicionado número repetido](images/readme/validacao2.png)
+<img align="center" src="images/readme/validacao2.png" alt="Mensagem de alerta quando é adicionado número repetido" width="700" style="border: 1px solid gray">
 
 <br>
 
@@ -34,7 +34,7 @@ Após a adicão de todos os números desejados e clicando em **Finalizar**, são
 
 <br>
 
-![Resultados das análises dos números](images/readme/resultado.png)
+<img align="center" src="images/readme/resultado.png" alt="Resultados das análises dos números" width="700" style="border: 1px solid gray">
 
 <br>
 
