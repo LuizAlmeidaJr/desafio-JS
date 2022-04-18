@@ -39,9 +39,11 @@ Após a adicão de todos os números desejados e clicando em **Finalizar**, são
 <br>
 
 ## 🛠 Tecnologias
+<div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Icon" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Icon" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="40" style="padding-left: 10px">
+</div>
 
 ## Autor
 
