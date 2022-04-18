@@ -54,7 +54,6 @@ function finalizar() {
         resultado.innerHTML += `<p>Os números analisados foram ${dados.join(", ")}.</p>`
         resultado.innerHTML += `<p>O menor número analisado foi ${menor} e o maior deles foi ${maior}.</p>`
         resultado.innerHTML += `<p>A soma dos números analisados foi ${soma} e sua média foi ${media.toFixed(2).replace(".", ",")}.`
-        alert(dados)
         dados = ""
         dados = []
     }
