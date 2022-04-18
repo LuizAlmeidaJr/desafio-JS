@@ -3,7 +3,7 @@
 Programa responsável por analisar os números adicionados e retornar o maior e o menor entre eles, a soma de todos os números e sua média.
 <br>
 
-Programa desenvolvido durante desafio do curso de JavaScript do Curso em Vídeo.
+Programa desenvolvido durante desafio do [curso de JavaScript do Curso em Vídeo.](https://www.youtube.com/watch?v=vEOEZ03ZyiE&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=31)
 
 ##  Como utilizar?
 Digite um número de 1 a 100 e clique em **Adicionar**.
